@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import Quotes from "./componentes/Quotes";
 
 function App() {
