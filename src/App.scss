@@ -24,14 +24,15 @@
     @include dimensions($mxh: 45vh, $mxw: 40vw, $mnh: 20vh, $mnw: 15vw);
     padding: 30px;
     border-radius: 15px;
+    font-family: Garamond, serif;
     background-color: #047cf44f;
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
     color: white;
 }
 
 #text {
     font-size: calc(12px + 2vmin);
+    font-style: italic;
 }
 #author {
-    font-size: calc(5px + 2vmin);
+    font-size: calc(3px + 2vmin);
 }
